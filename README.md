@@ -12,8 +12,9 @@
 
 <!-- slide vertical=true -->
 
-- WeChat: **Secret**
-- QQ: **Top-secret**
+- WeiBo: **Secret**
+- WeChat: **Top-secret**
+- QQ: **Most-Top-secret**
 
 <!-- slide -->
 
@@ -26,6 +27,7 @@ School of Computer and Information, Hohai University, Nanjing, Sept. 2017 - Jul.
 - Bachelor of Computer Science (Computer Science and Technology Class)
   - Software Engineering
   - Data Base
+  - Data Structure
 
 <!-- slide -->
 
@@ -37,6 +39,7 @@ School of Computer and Information, Hohai University, Nanjing, Sept. 2017 - Jul.
 - **DeepLearning**, Introduction
   - **NLP**, Learning
 - **Python**, Learning
+- **海安方言**, Proficient
 
 <!-- slide vertical=true -->
 
@@ -44,6 +47,14 @@ School of Computer and Information, Hohai University, Nanjing, Sept. 2017 - Jul.
 - **LaTex**, Familiar
 - **Linux**, A Little
 - **Git**, Familiar
+
+<!-- slide -->
+
+## 我的兴趣爱好
+
+- **JOJO**, Steel Ball Run
+- **守望先锋**, Golden rank
+- **EVA**, My wife Asuka
 
 <!-- slide -->
 
