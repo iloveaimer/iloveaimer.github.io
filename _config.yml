@@ -3,14 +3,14 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   金陵皇家水利学院<br/>
   永远喜欢Aimer<br/>
   叠翠山贵族<br/>
-  ASC<br/>
-  <a href="                      ">
+  AdrianWang<br/>
+  <a href="mailto:i@wu-kan.cn">
     <i class="fas fa-envelope"></i>
   </a>
   <a href="https://github.com/iloveaimer">
     <i class="fab fa-github"></i>
   </a>
-  <a href="          ">
+  <a href="https://codeforces.com/profile/WuK">
     <i class="fas fa-chart-bar"></i>
   </a>
   <a href="https://vjudge.net/user/WuK">
@@ -103,7 +103,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                 "content": {
                   "link": ["https://jekyll-theme-WuK.wu-kan.cn"],
-                  "skin": ["要个老婆吗？", "让她放个假吧~"],
+                  "skin": ["要换个老婆吗？◦˙▽˙◦", "让她放个假吧~"],
                   "hidden": true,
                   "custom": [{
                     "selector": "a",
@@ -355,7 +355,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_hour").innerHTML = setzero(hrsold);
                 document.getElementById("run_time_minute").innerHTML = setzero(minsold);
                 document.getElementById("run_time_second").innerHTML = setzero(seconds);
-              }, 1000, "29/04/2020 17:20:00") // 这是我第一篇CSDN博客的时间
+              }, 1000, "28/04/2020 17:20:00") // 这是我第一篇CSDN博客的时间
             </script>
           </div>
         - | # 不蒜子页面统计，看不懂可不改
@@ -388,13 +388,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             <i class="fas fa-copyright fa-fw"></i>
             2020 AdrianWang
           </div>
-        - | # 觉得我的主题好用的话，让更多的人知道它吧！
-          <div>
-            <i class="fas fa-thumbs-up fa-fw"></i>
-            <a href="https://jekyll-theme-WuK.wu-kan.cn">
-              jekyll-theme-WuK
-            </a>
-          </div>
+
 
       wordcount: # 全站字数统计
         enable: false # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
@@ -545,7 +539,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       | # 我的文章使用最宽松的知识共享协议：署名 4.0 国际 (CC BY 4.0)。您可以自由地：共享 — 在任何媒介以任何形式复制、发行本作品；演绎 — 修改、转换或以本作品为基础进行创作；在任何用途下，甚至商业目的。只要你遵守许可协议条款，许可人就无法收回你的这些权利。惟须遵守下列条件：署名 — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
       <br/>
       <i class="fas fa-coffee fa-fw"></i>
-      <a href="/merger/">如果这篇博客帮助到你，可以请我喝一杯咖啡~</a>
+      <a href="/merger/">如果这篇博客帮助到你，可以请我喝一杯奶茶~</a>
       <br/>
       <i class="fab fa-creative-commons-by fa-fw"></i>
       <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>（除特别声明或转载文章外）
