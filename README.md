@@ -53,7 +53,7 @@ School of Computer and Information, Hohai University, Nanjing, Sept. 2017 - Jul.
 ## 我的兴趣爱好
 
 - **JOJO**, Steel Ball Run
-- **守望先锋**, Golden rank
+- **OverWatch**, Golden rank
 - **EVA**, My wife Asuka
 
 <!-- slide -->

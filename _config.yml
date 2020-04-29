@@ -213,7 +213,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false # 是否不显示sidebar
       avatar: # 侧边栏显示的头像
         enable: true
-        img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+        img: http://userimg.yingyonghui.com/head/11/1481201075708/5764211.png-thumb # 头像的地址
       nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
@@ -356,7 +356,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_hour").innerHTML = setzero(hrsold);
                 document.getElementById("run_time_minute").innerHTML = setzero(minsold);
                 document.getElementById("run_time_second").innerHTML = setzero(seconds);
-              }, 1000, "10/02/2018 11:03:56") // 这是我第一篇CSDN博客的时间
+              }, 1000, "09/04/2017 12:00:00") // 这是我第一次到河海开学报到的日子
             </script>
           </div>
         - | # 不蒜子页面统计，看不懂可不改
