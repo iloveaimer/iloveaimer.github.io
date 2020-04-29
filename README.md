@@ -7,7 +7,7 @@
 ## 我的一些联系方式
 
 - Address: **No.8, Focheng West Road, Jiangning District, Nanjing City, Jiangsu Province**
-- Phone: **你猜**
+- Phone: **不给**
 - Site: **<https://iloveaimer.github.io>**
 
 <!-- slide vertical=true -->
@@ -34,8 +34,8 @@ School of Computer and Information, Hohai University, Nanjing, Sept. 2017 - Jul.
 
 <!-- slide vertical=true -->
 
-- **DeepLearning**, Familiar
-  - **NLP**, Introduction
+- **DeepLearning**, Introduction
+  - **NLP**, Learning
 - **Python**, Learning
 
 <!-- slide vertical=true -->
@@ -55,8 +55,7 @@ School of Computer and Information, Hohai University, Nanjing, Sept. 2017 - Jul.
 
 ## 我的一些作品
 
-- [风迹]
-- [猛男必看](https://www.bilibili.com/video/BV18t411d76n/)
+- [猛男必看-在河海大学计信院迎新晚会上女装表演是一种怎样的体验](https://www.bilibili.com/video/BV18t411d76n/)
 
 <!-- slide vertical=true -->
 
