@@ -168,7 +168,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(/img/Kizan.png);
+              background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/71932901_p0.webp);
             }
           }
         </style>
@@ -356,7 +356,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_hour").innerHTML = setzero(hrsold);
                 document.getElementById("run_time_minute").innerHTML = setzero(minsold);
                 document.getElementById("run_time_second").innerHTML = setzero(seconds);
-              }, 1000, "28/04/2020 17:20:00") // 这是我第一篇CSDN博客的时间
+              }, 1000, "10/04/2017 11:03:56") // 这是我第一篇CSDN博客的时间
             </script>
           </div>
         - | # 不蒜子页面统计，看不懂可不改
@@ -659,7 +659,7 @@ plugins: # <https://jekyllrb.com/docs/plugins/>
   - jekyll-feed # 为站点生成RSS源
   - jekyll-remote-theme # 使用remote_theme插件实现主题的前后分离，详见<https://github.com/benbalter/jekyll-remote-theme/>
 
-# remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@3.1.5 #使用固定版本号以防止主题更新导致站点显示错乱    # 我好像用不到
+remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@3.1.5 #使用固定版本号以防止主题更新导致站点显示错乱    # 这个不能删，删了博客页面只剩readme
 
 readme_index: # 缺失index.md和index.html时，使用README.md代替之
   with_frontmatter: true # 支持带有yaml头的README
