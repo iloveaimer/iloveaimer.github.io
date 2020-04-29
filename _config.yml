@@ -10,10 +10,10 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/iloveaimer">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
+  <a href="https://iloveaimer.github.io">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
+  <a href="https://iloveaimer.github.io">
     <i class="fas fa-smile"></i>
   </a>
   <a href="https://www.zhihu.com/people/hua-mei-ru-yu-49">
@@ -111,13 +111,13 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                     "type": "link",
                   }, {
                     "selector": ".sidebar-toggle",
-                    "text": "打开侧边栏叭~"
+                    "text": "点击头像有惊喜~"
                   }, {
                     "selector": ".effect-info",
                     "text": "哇，你发现了什么！"
                   }, {
                     "selector": "#sidebar-search-input",
-                    "text": "想搜索什么呢？很多干货哦！"
+                    "text": "想搜索什么呢？很多有趣的东西哦！"
                   }, {
                     "selector": "#toc",
                     "text": "这是目录~"
