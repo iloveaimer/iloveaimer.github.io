@@ -126,7 +126,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                     "text": "这是标题~"
                   }, {
                     "selector": ".v",
-                    "text": "评论没有审核，要对自己的发言负责哦~"
+                    "text": "评论没有审核，将来报道出了差错你可是要负泽任的哦~"
                   }]
                 },
                 "model": [
@@ -511,10 +511,10 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             "appId": "fbz1qH6JbY3SJFTfjC3CtV3S-gzGzoHsz",
             "appKey": "M5XFvG80NeLvJMLr6nN11oky",
             
-                # // 设置Bilibili表情包地址
-    # emojiCDN: '//i0.hdslb.com/bfs/emote/', 
-    # // 表情title和图片映射
-    # emojiMaps: {
+        # // 设置Bilibili表情包地址
+        # emojiCDN: '//i0.hdslb.com/bfs/emote/', 
+        # // 表情title和图片映射
+        # emojiMaps: {
         # "tv_doge": "6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png",
         # "tv_亲亲": "a8111ad55953ef5e3be3327ef94eb4a39d535d06.png",
         # "tv_偷笑": "bb690d4107620f1c15cff29509db529a73aee261.png",
