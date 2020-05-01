@@ -136,8 +136,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                   "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/mashiro/seifuku.model.json",
                   "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/Violet/14.json",
                   "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/Kobayaxi/Kobayaxi.model.json",
-                  "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/mikoto/mikoto.model.json",
-                  "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/uiharu/uiharu.model.json"]
+                  "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/mikoto/mikoto.model.json"]
               });'
         ></script>
       - | # 百度爬虫推送，http站点使用 http://push.zhanzhang.baidu.com/push.js
@@ -387,9 +386,15 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # Copyright声明
           <div>
             <i class="fas fa-copyright fa-fw"></i>
-            2020 AdrianWang
+            2017-2020 华美如玉
           </div>
-
+        - | # 来自wu-kan的主题，喜欢的话让更多的人知道它吧！
+          <div>
+            <i class="fas fa-thumbs-up fa-fw"></i>
+            <a href="https://jekyll-theme-WuK.wu-kan.cn">
+              jekyll-theme-WuK
+            </a>
+          </div>
 
       wordcount: # 全站字数统计
         enable: false # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
