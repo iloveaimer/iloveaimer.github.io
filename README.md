@@ -16,7 +16,7 @@
 - WeiBo: **Secret**
 - WeChat: **Top-secret**
 - QQ: **Most-Top-secret**
-- Bilibili: **华美如玉**
+- Bilibili: **[华美如玉](https://space.bilibili.com/11700694)**
 
 <!-- slide -->
 
