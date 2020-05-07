@@ -1,7 +1,7 @@
 # 御风
 
 欢迎访问我的个人主页！(◞ꈍ∇ꈍ)◞
-<img src="https://i0.hdslb.com/bfs/album/c75215e5875837b279b23d18805c5ad2cb9cde1f.png" width="50%">
+<img src="https://i0.hdslb.com/bfs/album/c75215e5875837b279b23d18805c5ad2cb9cde1f.png" width="30%">
 
 <!-- slide -->
 
