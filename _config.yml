@@ -212,7 +212,7 @@ jekyll-theme-WuK: # 模板作者wu-kan使用主题的自定义样式都在这个
       disable: false # 是否不显示sidebar
       avatar: # 侧边栏显示的头像
         enable: true
-        img:https://i0.hdslb.com/bfs/album/11278973335344418450a222232ad36b8ee8f95e.jpg # 头像的地址，我把头像发在B站动态了
+        img: https://i0.hdslb.com/bfs/album/11278973335344418450a222232ad36b8ee8f95e.jpg # 头像的地址，我把头像发在B站动态了
       nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
