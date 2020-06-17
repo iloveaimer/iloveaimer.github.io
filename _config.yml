@@ -420,6 +420,47 @@ jekyll-theme-WuK: # 模板作者wu-kan使用主题的自定义样式都在这个
   page:
     masthead: # 显示顶栏
       enable: true
+    katex: # katex 数学公式插件
+      enable: true
+      append: |
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/combine/npm/katex@0.11.1/dist/katex.min.js,npm/katex@0.11.1/dist/contrib/mathtex-script-type.min.js,npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+          defer="defer"
+          onload='renderMathInElement(document.body, { delimiters: [{ left: "$", right: "$", display: false }] })'
+        ></script>
+    mermaid: # mermaid图插件
+      enable: true
+      append: |
+        <style>
+          pre.language-mermaid,
+          code.language-mermaid {
+            display: none;
+          }
+          .mermaid {
+            overflow: auto auto;
+            max-width: 100%;
+            max-height: 66.6vh;
+          }
+        </style>
+        <script
+          src="https://cdn.jsdelivr.net/npm/mermaid@8.5.1/dist/mermaid.min.js"
+          defer="defer"
+          onload='
+            for(let x of document.getElementsByClassName("language-mermaid"))
+              if(x.nodeName=="CODE")
+              {
+                let m = document.createElement("div");
+                m.classList.add("mermaid");
+                m.textContent = x.textContent;
+                x.parentNode.insertAdjacentElement("beforebegin", m);
+              }'
+        ></script>
+    prism: # 代码高亮插件
+      enable: true
       append: |
         <link
           rel="stylesheet"
