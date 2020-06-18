@@ -155,9 +155,9 @@ jekyll-theme-WuK: # 模板作者wu-kan使用主题的自定义样式都在这个
             background-position: 0% 0%;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/74559485_p1.webp);
+            background-image: url(https://hermit-purple.oss-cn-hongkong.aliyuncs.com/background12.jpg?Expires=1592450919&OSSAccessKeyId=TMP.3Kjv2su3JTpFt4x6k84CQ5vftNn3NYXK8ydfmnYmxhtamDFLkiE6kPhr6Wuga2BPJQ7PV6beJApapBF522jrtPPhnyW7og&Signature=ALLefL5D%2FWVthI2w%2BYbwzfY5NXw%3D);
           }
-          @media (min-aspect-ratio: 2400/1850) {
+          @media (min-aspect-ratio: 1920/1080) {
             .wrap {
               background-image: url(https://hermit-purple.oss-cn-hongkong.aliyuncs.com/background12.jpg?Expires=1592450919&OSSAccessKeyId=TMP.3Kjv2su3JTpFt4x6k84CQ5vftNn3NYXK8ydfmnYmxhtamDFLkiE6kPhr6Wuga2BPJQ7PV6beJApapBF522jrtPPhnyW7og&Signature=ALLefL5D%2FWVthI2w%2BYbwzfY5NXw%3D);
             }
