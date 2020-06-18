@@ -159,7 +159,7 @@ jekyll-theme-WuK: # 模板作者wu-kan使用主题的自定义样式都在这个
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://i0.hdslb.com/bfs/album/98bb10401e0e27d864053e6fb43e7fcb0b4ee50c.png);
+              background-image: url(https://hermit-purple.oss-cn-hongkong.aliyuncs.com/background12.jpg?Expires=1592450919&OSSAccessKeyId=TMP.3Kjv2su3JTpFt4x6k84CQ5vftNn3NYXK8ydfmnYmxhtamDFLkiE6kPhr6Wuga2BPJQ7PV6beJApapBF522jrtPPhnyW7og&Signature=ALLefL5D%2FWVthI2w%2BYbwzfY5NXw%3D);
             }
           }
           .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
