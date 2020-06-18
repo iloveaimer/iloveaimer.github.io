@@ -2,7 +2,7 @@
 
 欢迎访问我的个人主页！(◞ꈍ∇ꈍ)◞  
 
-<img src="https://hermit-purple.oss-cn-hongkong.aliyuncs.com/KQ.png?Expires=1592450678&OSSAccessKeyId=TMP.3Kjv2su3JTpFt4x6k84CQ5vftNn3NYXK8ydfmnYmxhtamDFLkiE6kPhr6Wuga2BPJQ7PV6beJApapBF522jrtPPhnyW7og&Signature=AAYvhFbVfnB3%2Brsxc9QaEJxz%2B80%3D" width="30%">
+<img src="https://huameiruyu.top/KQ.png?x-oss-process=style/rule&Expires=1592451576&OSSAccessKeyId=TMP.3Kjv2su3JTpFt4x6k84CQ5vftNn3NYXK8ydfmnYmxhtamDFLkiE6kPhr6Wuga2BPJQ7PV6beJApapBF522jrtPPhnyW7og&Signature=TtNPvOxX8HeRBfM5vCTWTbwhNmA%3D" width="30%">
 
 <!-- slide -->
 
