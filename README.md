@@ -2,7 +2,7 @@
 
 欢迎访问我的个人主页！(◞ꈍ∇ꈍ)◞  
 
-<img src="https://i0.hdslb.com/bfs/album/c75215e5875837b279b23d18805c5ad2cb9cde1f.png" width="30%">
+<img src="https://hermit-purple.oss-cn-hongkong.aliyuncs.com/KQ.png?Expires=1592450678&OSSAccessKeyId=TMP.3Kjv2su3JTpFt4x6k84CQ5vftNn3NYXK8ydfmnYmxhtamDFLkiE6kPhr6Wuga2BPJQ7PV6beJApapBF522jrtPPhnyW7og&Signature=AAYvhFbVfnB3%2Brsxc9QaEJxz%2B80%3D" width="30%">
 
 <!-- slide -->
 
